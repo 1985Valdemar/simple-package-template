@@ -2,7 +2,7 @@
 
 Description. 
 The package package_name is used to:
-	- 
+	- Este é um pacote simples de exemplo.
 	-
 
 ## Installation
@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Valdemar T T
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
